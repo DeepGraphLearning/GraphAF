@@ -9,5 +9,5 @@ This repo contains a reference implementation for GraphAF as described in the pa
 
 Code is available at [google drive](https://drive.google.com/open?id=1FmYWcT8jDrwZlzPbmMpRhulb9OKTDWJL) now.
 
-The code is stilling being refined. The refined version is coming soon!
+**Update: We implement the GraphAF in our [TorchDrug](https://torchdrug.ai/docs/tutorials/generation.html) platform.**
 
